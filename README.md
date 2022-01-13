@@ -9,6 +9,7 @@ Our dataset contains many variables on both legitimate and phishing websites. Ou
 
 ## Presentation
 * Lawrence and Delores for creation. All four will present a section for the final. 
+* Presentation mock up completed and uploaded into resources folder
 ## Machine Learning
 * Nick and Mary will focus on the initial creation of the machine learning model. 
 ## Database
