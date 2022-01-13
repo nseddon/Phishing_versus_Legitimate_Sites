@@ -18,7 +18,7 @@ Our dataset contains many variables on both legitimate and phishing websites. Ou
 
 ## Team Members/Roles
 * Lawrence
-* Nicolas
+* Nick
 * Dolores
 * Mary 
 
