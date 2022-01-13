@@ -24,6 +24,6 @@ Our dataset contains many variables on both legitimate and phishing websites. Ou
 
 ## Timeline
 ### First Segment
-
+Goal to have completed by 1/23
 
 ### Second Segment 
