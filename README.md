@@ -1,11 +1,14 @@
 # Phishing_versus_Legitimate_Sites
-The topic selected is on phishing attacks.  
+The topic selected is to determine what variables most impact a website being a phishing website or a legitimate site.  
 
 ## Reason that topic was selected
 This topic was selected to determine whether there were clear variables that could be used to determine if an website was phishing or legitimate. Due to recent events the needs for technological security awareness is more crutical than ever. As a team, we found that our careers were all focused on the need for secure business practices.
 
 ## What are we going to answer?
-Our dataset contains many variables on both legitimate and phishing websites. Our research will analyze if there are clear variables that could determine if a website was legitimate or illegitimate. 
+Our dataset contains many variables on both legitimate and phishing websites. 
+Our research will analyze if there are clear variables that could determine if a website was legitimate or illegitimate. 
+Then we would like to determine which variables are most effective for determining if a website was legitimate or illegitimate.
+Finally, we would like to see if there were three clear factors that could be used by the layman to determine the legitimacy of a website to best protect themselves from malicious sites. 
 
 ## Presentation
 * Lawrence and Dolores for creation. All four will present a section for the final.  
