@@ -11,7 +11,6 @@ Then we would like to determine which variables are most effective for determini
 Finally, we would like to see if there were three clear factors that could be used by the layman to determine the legitimacy of a website to best protect themselves from malicious sites. 
 
 ## Presentation
-* Lawrence and Dolores for creation. All four will present a section for the final.  
 * Presentation mock up completed and uploaded into resources folder
 * Google slides https://docs.google.com/presentation/d/1Tlc5y2ZqGBQr2aUP3seLvCaXqkYhqNN9U3v5q_ywOac/edit#slide=id.p
 
@@ -38,10 +37,10 @@ Our SQL database is established using PgAdmin. We then use Python to upload the 
 For our Github, we each have our own branches. We work communally, during and outside of class in our own branches. These edits and contributions are compiled into the main branch upon review. Our github is formatted with files for images (containing the EDR images) and Resources (containing the original data and SQL data files). 
 
 ## Team Members/Roles
-* Lawrence
-* Nick
-* Dolores
-* Mary 
+* Lawrence - Focus on database and presentation
+* Nick - focus on machine learning, and github
+* Dolores - focus on presentation and dashboard
+* Mary - focus on ReadMe and data analysis
 
 ## Timeline
 ### First Segment
