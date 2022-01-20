@@ -31,11 +31,11 @@ PctExtHyperLinks predicted 19% of the model, PctExtNulSelfRedirectyperlinksRT re
 
 ## Database
  
-Our SQL d
+Our SQL database is established using PgAdmin. We then use Python to upload the data to our PgAdmin database. The data is then pull through the database into our Python file to analyze. Finally, once we have analyzed our data, we will create new SQL tables using some of the data that we found that needed additional analysis. 
 
 ## Github
 
-For our Github, we each have our own branches. We work communally, during and outside of class in our own branches. These edits and contributions are compiled into the main branch upon con
+For our Github, we each have our own branches. We work communally, during and outside of class in our own branches. These edits and contributions are compiled into the main branch upon review. Our github is formatted with files for images (containing the EDR images) and Resources (containing the original data and SQL data files). 
 
 ## Team Members/Roles
 * Lawrence
