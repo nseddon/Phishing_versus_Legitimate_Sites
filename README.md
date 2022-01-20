@@ -34,7 +34,7 @@ Our SQL database is established using PgAdmin. We then use Python to upload the 
 
 ## Github
 
-For our Github, we each have our own branches. We work communally, during and outside of class in our own branches. These edits and contributions are compiled into the main branch upon review. Our github is formatted with files for images (containing the EDR images) and Resources (containing the original data and SQL data files). 
+For our Github, we each have our own branches. We work communally, during and outside of class in our own branches. These edits and contributions are compiled into the main branch upon review. Our github is formatted with files for images (containing the ERD images) and Resources (containing the original data and SQL data files). 
 
 ## Team Members/Roles
 * Lawrence - Focus on database and presentation
