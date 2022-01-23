@@ -29,8 +29,11 @@ PctExtHyperLinks predicted 19% of the model, PctExtNulSelfRedirectyperlinksRT re
 ![image](https://user-images.githubusercontent.com/89048287/150245774-f8964f5a-c88d-4386-bb50-a9f86dda7502.png)
 
 ## Database
- 
-Our SQL database is established using PgAdmin. We then use Python to upload the data to our PgAdmin database. The data is then pull through the database into our Python file to analyze. Finally, once we have analyzed our data, we will create new SQL tables using some of the data that we found that needed additional analysis. 
+
+* Dolores and Mary will focus on the creation of the database and the retrieval of data.
+
+Our database is a combination of three tables with a total of 50 features, created in PgAdmin. The three tables were created in SQL, CSV files were imported, and a table schema was created for each. We used the Inner Join method to combine the tables, creating the final schema "ToLegit_ToPhish".
+We then pull through the database into our Python file to analyze. Finally, once we have analyzed our data, we will create new SQL tables using some of the data that we found that needed additional analysis. 
 
 ## Github
 
