@@ -1,4 +1,4 @@
-SSELECT
+SELECT
 	site_first_information.*,
 	NumSensitiveWords,
 	EmbeddedBrandName,
