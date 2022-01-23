@@ -12,7 +12,8 @@ Our dataset contains many variables on both legitimate and phishing websites. Ou
 ## Machine Learning
 * Nick and Mary will focus on the initial creation of the machine learning model. 
 ## Database
-* Delores and Mary will focus on the creation of the database and the retrieval of data.
+* Dolores and Mary will focus on the creation of the database and the retrieval of data.
+* Our database is a combination of three tables with a total of 50 features. The three tables were created in SQL, CSV files were imported, and a table schema was created for each. The final schema for the join tables "ToLegit_ToPhish" is in the resources section.
 ## Github
 * Lead by Nick but Full team will contribute to the site and Mary will help with written analysis and editing. 
 
