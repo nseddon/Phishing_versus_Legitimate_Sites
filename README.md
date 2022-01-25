@@ -17,6 +17,14 @@ Finally, we would like to see if there were three clear factors that could be us
 ## Machine Learning
 To analyze the data, we chose to use two machine learning models to thoroughly dissect the data. We completed a logistical regression model and the balanced random forest clarifier. 
 
+### Data Prep
+Our data contained 50 columns containing one independent variable and one unique "ID" variable and 10,000 rows. Half of the data rows contained data on phishing websites while the other 5,000 rows contained data on legitimate websites. 
+
+We prepared our data according to the project constraints to separate our single data set into three. The first set contained 25 columns including the ID columns. The second set contained the remaining 25 columns including an ID column. 
+Our third dataset contained the ID variable with the Class or independent variable. 
+
+To conduct our machine learning training and testing datasets , we joined the first two sets to contain all of dependent data and the third set to contain our independent variable. We separated our testing using the traditional 70/30 training/testing split. 
+
 ### Logisitical Regression Model
 We conducted a logisitical regression model on all the variables in our data when compared to the dependent variable of Class Label. We found that the model predicted 92% of both the phishing sites and the legitimate sites in the testing data, with F1 = .92. 
 ![image](https://user-images.githubusercontent.com/89048287/150245799-7bc120c7-2996-4552-8aec-98a1d11f86df.png)
