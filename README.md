@@ -23,7 +23,7 @@ Our data contained 50 columns containing one independent variable and one unique
 We prepared our data according to the project constraints to separate our single data set into three. The first set contained 25 columns including the ID columns. The second set contained the remaining 25 columns including an ID column. 
 Our third dataset contained the ID variable with the Class or independent variable. 
 
-To conduct our machine learning training and testing datasets, we joined the first two sets to contain all of dependent data and the third set to contain our independent variable. We separated our testing using the traditional 70/30 training/testing split. 
+To conduct our machine learning training and testing datasets, we joined the first two sets to contain all of dependent data and the third set to contain our independent variable. We separated our testing using the traditional 75/25 training/testing split. 
 
 ### Logisitical Regression Model
 We conducted a logisitical regression model on all the variables in our data when compared to the dependent variable of Class Label. We found that the model predicted 92% of both the phishing sites and the legitimate sites in the testing data, with F1 = .92. 
@@ -55,3 +55,8 @@ For our Github, we each have our own branches. We work communally, during and ou
 Goal to have completed by 1/23
 
 ### Second Segment 
+Goal to have completed by 1/30
+
+### Third Segment
+
+### Final Project Submission 
