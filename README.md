@@ -53,10 +53,26 @@ For our Github, we each have our own branches. We work communally, during and ou
 ## Timeline
 ### First Segment
 Goal to have completed by 1/23
+Circle = Dolores
+Triange = Lawrence
+Square = Mary 
+X = Nick
 
 ### Second Segment 
 Goal to have completed by 1/30
+Circle = Lawrence
+Triange = Dolores
+Square = Nick
+X = Mary 
 
 ### Third Segment
+Circle = Nick
+Triange = Mary 
+Square = Lawrence
+X = Dolores
 
 ### Final Project Submission 
+Circle = Mary 
+Triange = Nick
+Square = Dolores
+X = Lawrence
