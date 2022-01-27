@@ -33,7 +33,7 @@ To conduct our machine learning training and testing datasets, we joined the fir
 We conducted a logisitical regression model on all the variables in our data when compared to the dependent variable of Class Label. We found that the model predicted 92% of both the phishing sites and the legitimate sites in the testing data, with F1 = .92. 
 ![image](https://user-images.githubusercontent.com/89048287/150245799-7bc120c7-2996-4552-8aec-98a1d11f86df.png)
 
-### Balanced Random Forest Clarifier
+### Balanced Random Forest Classifier
 We found that the balanced random forest clarifier model showed that the balance accuracy score predicted .98% of both the phishing sites and the legitimate sites in the testing data. 
 The three variables that had the highest predictive values were as follows: 
 PctExtHyperLinks predicted 19% of the model, PctExtNulSelfRedirectyperlinksRT redicted 15% of the model, Frequent Domain Name Mismatch predicted 7.9% of the model, and PctExtResourceUrls predicted 7.3% of the model. 
@@ -42,6 +42,12 @@ PctExtHyperLinks predicted 19% of the model, PctExtNulSelfRedirectyperlinksRT re
 ## Presentation
 * We presented our data and visualizations in GoogleSlides. 
 * Google slides https://docs.google.com/presentation/d/1Tlc5y2ZqGBQr2aUP3seLvCaXqkYhqNN9U3v5q_ywOac/edit#slide=id.p
+
+## Dashboard
+Using Tableau we will be creating an interactive dashboard to present our data findings. 
+We will be creating a dashboard with an interactive filter. The dashboard will show all of the logistical regression findings with a filter with selections for legitimate and/or phishing sites. This will allow the user to see the top 5 variables that were most impactful for identifying legitimate sites and/or the top 5 variables that were most impactful for identifying phishing sites (with the ability to select one or both of the options, for individual review or joint comparison). 
+Our next page will show the Balanced Random Forest Classifier results with an option to find the top 5 most impactful variables for identifying sites. 
+Our final page will compare the results from both machine learning models with similar interactive features to view the most impactful features to identify overarching trends that could enable a layman to identify the legitimacy of a website. 
 
 ## Team Members/Roles and Timeline 
 
