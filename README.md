@@ -23,6 +23,8 @@ Our data contained 50 columns containing one independent variable and one unique
 We prepared our data according to the project constraints to separate our single data set into three. The first set contained 25 columns including the ID columns. The second set contained the remaining 25 columns including an ID column. 
 Our third dataset contained the ID variable with the Class or independent variable. 
 
+Using Jupyter Notebook, we used the SciKitLearn model. This allowed us to create our training and testing datasets, build the model, and produce the models needed to interpret the data. 
+
 To conduct our machine learning training and testing datasets, we joined the first two sets to contain all of dependent data and the third set to contain our independent variable. We separated our testing using the traditional 75/25 training/testing split. 
 
 ### Logisitical Regression Model
@@ -38,7 +40,7 @@ PctExtHyperLinks predicted 19% of the model, PctExtNulSelfRedirectyperlinksRT re
 
 ## Database
  
-Our SQL database is established using PgAdmin. We then use Python to upload the data to our PgAdmin database. The data is then pull through the database into our Python file to analyze. Finally, once we have analyzed our data, we will create new SQL tables using some of the data that we found that needed additional analysis. 
+Our SQL database was created using Postres through PgAdmin4. We then use Python to upload the data to our PgAdmin database. The data is then pull through the database into our Python file to analyze. Finally, once we have analyzed our data, we will create new SQL tables using some of the data that we found that needed additional analysis. SQLalchemy within jupyter notebook was used to import the data from the database into the machine learning model. 
 
 ## Github
 
