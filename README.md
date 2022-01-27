@@ -25,13 +25,13 @@ Our third dataset contained the ID variable with the Class or independent variab
 
 To conduct our machine learning training and testing datasets, we joined the first two sets to contain all of dependent data and the third set to contain our independent variable. We separated our testing using the traditional 75/25 training/testing split. The ID variable was removed from the dependent variable set. The independent variable of Class was also removed from the dependent set and used as the independent variable exclusively. 
 
-### Logisitical Regression Model
+### Logistic Regression Model
 We conducted a logisitical regression model on all the variables in our data when compared to the dependent variable of Class Label. We found that the model predicted 92% of both the phishing sites and the legitimate sites in the testing data, with F1 = .92. 
 ![image](https://user-images.githubusercontent.com/89048287/150245799-7bc120c7-2996-4552-8aec-98a1d11f86df.png)
 
-### Balanced Random Forest Clarifier
+### Balanced Random Forest Classifier
 
-We found that the balanced random forest clarifier model showed that the balance accuracy score predicted .98% of both the phishing sites and the legitimate sites in the testing data. 
+We found that the balanced random forest classifier model showed that the balance accuracy score predicted .98% of both the phishing sites and the legitimate sites in the testing data. 
 The three variables that had the highest predictive values were as follows: 
 PctExtHyperLinks predicted 19% of the model, PctExtNulSelfRedirectyperlinksRT redicted 15% of the model, Frequent Domain Name Mismatch predicted 7.9% of the model, and PctExtResourceUrls predicted 7.3% of the model. 
 ![image](https://user-images.githubusercontent.com/89048287/150245774-f8964f5a-c88d-4386-bb50-a9f86dda7502.png)
