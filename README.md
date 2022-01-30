@@ -11,6 +11,9 @@ Our dataset contains many variables on both legitimate and phishing websites. Ou
 * Lawrence and Delores for creation. All four will present a section for the final. 
 * Presentation mock up completed and uploaded into resources folder
 * Google slides https://docs.google.com/presentation/d/1Tlc5y2ZqGBQr2aUP3seLvCaXqkYhqNN9U3v5q_ywOac/edit#slide=id.p
+* Tableau https://public.tableau.com/views/TooLegit_toPhish/LogReg?:language=en-US&:display_count=n&:origin=viz_share_link
+Internal Error - An unexpected error occurred and the operation could not be completed.
+Error Code: E04B915D
 ## Machine Learning
 * Nick and Mary will focus on the initial creation of the machine learning model. 
 ## Database
