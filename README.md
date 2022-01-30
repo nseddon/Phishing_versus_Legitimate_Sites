@@ -55,8 +55,8 @@ PctExtHyperLinks predicted 19% of the model, PctExtNulSelfRedirectyperlinksRT re
 Our database is a combination of three tables with a total of 50 features, created in PgAdmin. The three tables were created in SQL, CSV files were imported, and a table schema was created for each. We used the Inner Join method to combine the tables, creating the final schema "ToLegit_ToPhish".
 We then pull through the database into our Python file to analyze. Finally, once we have analyzed our data, we will create new SQL tables using some of the data that we found that needed additional analysis. 
 
-## Github
-
+## GitHub
+GitHub will be the access point for the project.  All initial data, analysis models, compiled results, and visualizations (including links) will be stored so all team members may access during the project.  This repository will be public and available for the final project to be shared with the clients.
 
 ## Dashboard
 Using Tableau we will be creating an interactive dashboard to present our data findings. 
