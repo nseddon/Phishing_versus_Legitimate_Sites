@@ -39,7 +39,7 @@ To conduct our machine learning training and testing datasets, we joined the fir
 
 We conducted a logisitical regression model on all the variables in our data when compared to the dependent variable of Class Label. We found that the model predicted 92% of both the phishing sites and the legitimate sites in the testing data, with F1 = .93. 
 * ![image](https://user-images.githubusercontent.com/89048287/152260954-71a74f78-23d5-4e4a-bf99-b6f835ae5d93.png)
-* The top 5 most predictive attributes for legitimate sites: ![image](https://user-images.githubusercontent.com/89048287/152261334-0bbb3e14-184a-4207-9af9-0904f1a12360.png)
+* The top 5 most predictive attributes for legitimate sites: <br /> ![image](https://user-images.githubusercontent.com/89048287/152261334-0bbb3e14-184a-4207-9af9-0904f1a12360.png)
 * The top 5 most predictive attributes for illegitimate sites: ![image](https://user-images.githubusercontent.com/89048287/152261426-7a6464f5-f18c-4732-883c-f3650118922b.png)
 
 
