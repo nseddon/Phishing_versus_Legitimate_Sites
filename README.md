@@ -38,9 +38,9 @@ To conduct our machine learning training and testing datasets, we joined the fir
 ### Logistic Regression Model
 
 We conducted a logisitical regression model on all the variables in our data when compared to the dependent variable of Class Label. We found that the model predicted 92% of both the phishing sites and the legitimate sites in the testing data, with F1 = .93. 
-* ![image](https://user-images.githubusercontent.com/89048287/152260954-71a74f78-23d5-4e4a-bf99-b6f835ae5d93.png)
+* <br /> ![image](https://user-images.githubusercontent.com/89048287/152260954-71a74f78-23d5-4e4a-bf99-b6f835ae5d93.png)
 * The top 5 most predictive attributes for legitimate sites: <br /> ![image](https://user-images.githubusercontent.com/89048287/152261334-0bbb3e14-184a-4207-9af9-0904f1a12360.png)
-* The top 5 most predictive attributes for illegitimate sites: ![image](https://user-images.githubusercontent.com/89048287/152261426-7a6464f5-f18c-4732-883c-f3650118922b.png)
+* The top 5 most predictive attributes for illegitimate sites: <br /> ![image](https://user-images.githubusercontent.com/89048287/152261426-7a6464f5-f18c-4732-883c-f3650118922b.png)
 
 
 
@@ -50,8 +50,8 @@ We found that the balanced random forest clarifier model showed that the balance
 
 The three variables that had the highest predictive values were as follows: 
 PctExtHyperLinks predicted 19% of the model, PctExtNulSelfRedirectyperlinksRT redicted 15% of the model, Frequent Domain Name Mismatch predicted 7.9% of the model, and PctExtResourceUrls predicted 7.3% of the model. 
-* ![image](https://user-images.githubusercontent.com/89048287/152261060-11442f57-7b23-4af6-a2f1-ed7819f38d07.png)
-* ![image](https://user-images.githubusercontent.com/89048287/152261138-70a76855-cdcc-45ba-b283-e1d96556c0ff.png)
+* <br /> ![image](https://user-images.githubusercontent.com/89048287/152261060-11442f57-7b23-4af6-a2f1-ed7819f38d07.png)
+* <br /> ![image](https://user-images.githubusercontent.com/89048287/152261138-70a76855-cdcc-45ba-b283-e1d96556c0ff.png)
 
 
 
