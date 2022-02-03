@@ -47,7 +47,7 @@ PctExtHyperLinks predicted 19% of the model, PctExtNulSelfRedirectyperlinksRT re
 
 ## Presentation
 * We presented our data and visualizations in GoogleSlides. 
-* Google slides https://docs.google.com/presentation/d/1Tlc5y2ZqGBQr2aUP3seLvCaXqkYhqNN9U3v5q_ywOac/edit#slide=id.p
+* Google slides https://docs.google.com/presentation/d/1Tlc5y2ZqGBQr2aUP3seLvCaXqkYhqNN9U3v5q_ywOac/edit?usp=sharing
 * Tableau https://public.tableau.com/views/TooLegit_toPhish/LogReg?:language=en-US&:display_count=n&:origin=viz_share_link
 
 ## Database
