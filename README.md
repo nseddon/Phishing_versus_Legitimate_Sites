@@ -15,7 +15,9 @@ Finally, we would like to see if there were five clear factors that could be use
 For our Github, we each had our own branches. We worked communally, during and outside of class in our own branches. These edits and contributions are compiled into the main branch upon review. Our github is formatted with files for images (containing the ERD images) and Resources (containing the original data and SQL data files).
 
 ## Database
-Our SQL database was created using Postres through PgAdmin4. We then used Python to upload the data to our PgAdmin database. The data is then pulled through the database into our Python file to analyze. SQLalchemy within Jupyter Notebook was used to import the data from the database into the machine learning model. Finally, once we have analyzed our data, we will create new SQL tables using some of the data that we found that needed additional analysis.
+
+Our database is a combination of three tables with a total of 50 features, created in PgAdmin. The three tables were created in SQL, CSV files were imported, and a table schema was created for each. We used the Inner Join method to combine the tables, creating the final schema "ToLegit_ToPhish".
+We then pull through the database into our Python file to analyze. Finally, once we have analyzed our data, we will create new SQL tables using some of the data that we found that needed additional analysis. 
 
 ## Machine Learning
 To analyze the data, we chose to use two machine learning models to thoroughly dissect the data. We completed a logistical regression model and the balanced random forest clarifier. 
@@ -46,11 +48,6 @@ PctExtHyperLinks predicted 19% of the model, PctExtNulSelfRedirectyperlinksRT re
 ## Presentation
 * We presented our data and visualizations in GoogleSlides. 
 * Google slides https://docs.google.com/presentation/d/1Tlc5y2ZqGBQr2aUP3seLvCaXqkYhqNN9U3v5q_ywOac/edit#slide=id.p
-
-## Database
-
-Our database is a combination of three tables with a total of 50 features, created in PgAdmin. The three tables were created in SQL, CSV files were imported, and a table schema was created for each. We used the Inner Join method to combine the tables, creating the final schema "ToLegit_ToPhish".
-We then pull through the database into our Python file to analyze. Finally, once we have analyzed our data, we will create new SQL tables using some of the data that we found that needed additional analysis. 
 
 ## Dashboard
 Using Tableau we will be creating an interactive dashboard to present our data findings. 
