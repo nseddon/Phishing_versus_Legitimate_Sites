@@ -48,6 +48,18 @@ PctExtHyperLinks predicted 19% of the model, PctExtNulSelfRedirectyperlinksRT re
 ## Presentation
 * We presented our data and visualizations in GoogleSlides. 
 * Google slides https://docs.google.com/presentation/d/1Tlc5y2ZqGBQr2aUP3seLvCaXqkYhqNN9U3v5q_ywOac/edit#slide=id.p
+* Tableau https://public.tableau.com/views/TooLegit_toPhish/LogReg?:language=en-US&:display_count=n&:origin=viz_share_link
+
+## Database
+
+* Dolores and Mary will focus on the creation of the database and the retrieval of data.
+
+Our database is a combination of three tables with a total of 50 features, created in PgAdmin. The three tables were created in SQL, CSV files were imported, and a table schema was created for each. We used the Inner Join method to combine the tables, creating the final schema "ToLegit_ToPhish".
+We then pull through the database into our Python file to analyze. Finally, once we have analyzed our data, we will create new SQL tables using some of the data that we found that needed additional analysis. 
+
+## GitHub
+GitHub will be the access point for the project.  All initial data, analysis models, compiled results, and visualizations (including links) will be stored so all team members may access during the project.  This repository will be public and available for the final project to be shared with the clients.
+
 
 ## Dashboard
 Using Tableau we will be creating an interactive dashboard to present our data findings. 
