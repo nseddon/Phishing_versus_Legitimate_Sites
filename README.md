@@ -69,6 +69,13 @@ We will be creating a dashboard with an interactive filter. The dashboard will s
 Our next page will show the Balanced Random Forest Classifier results with an option to find the top 5 most impactful variables for identifying sites. 
 Our final page will compare the results from both machine learning models with similar interactive features to view the most impactful features to identify overarching trends that could enable a layman to identify the legitimacy of a website. 
 
+## Results
+
+
+## Conclusions
+
+ 
+
 ## Team Members/Roles and Timeline 
 
 ### First Segment
@@ -85,12 +92,14 @@ Our final page will compare the results from both machine learning models with s
 * Square = Nick
 
 ### Third Segment
+* Goal to have completed by 2/6
 * Circle = Nick
 * Triange = Mary 
 * Square = Lawrence
 
 
 ### Final Project Submission 
+* Goal to have completed by 2/9
 * Circle = Mary 
 * Triange = Nick
 * Square = Lawrence
