@@ -53,14 +53,10 @@ PctExtHyperLinks predicted 19% of the model, PctExtNulSelfRedirectyperlinksRT re
 * <br /> ![image](https://user-images.githubusercontent.com/89048287/152261060-11442f57-7b23-4af6-a2f1-ed7819f38d07.png)
 * <br /> ![image](https://user-images.githubusercontent.com/89048287/152261138-70a76855-cdcc-45ba-b283-e1d96556c0ff.png)
 
+## Results
 
 
-## Presentation
-
-* We presented our data and visualizations in GoogleSlides. 
-* Google slides https://docs.google.com/presentation/d/1Tlc5y2ZqGBQr2aUP3seLvCaXqkYhqNN9U3v5q_ywOac/edit?usp=sharing
-* Tableau https://public.tableau.com/views/TooLegit_toPhish/LogReg?:language=en-US&:display_count=n&:origin=viz_share_link
-
+## Conclusions
 
 ## Dashboard
 
@@ -69,38 +65,12 @@ We will be creating a dashboard with an interactive filter. The dashboard will s
 Our next page will show the Balanced Random Forest Classifier results with an option to find the top 5 most impactful variables for identifying sites. 
 Our final page will compare the results from both machine learning models with similar interactive features to view the most impactful features to identify overarching trends that could enable a layman to identify the legitimacy of a website. 
 
-## Results
+## Presentation
+
+* We presented our data and visualizations in GoogleSlides. 
+* Google slides https://docs.google.com/presentation/d/1Tlc5y2ZqGBQr2aUP3seLvCaXqkYhqNN9U3v5q_ywOac/edit?usp=sharing
+* Tableau https://public.tableau.com/views/TooLegit_toPhish/LogReg?:language=en-US&:display_count=n&:origin=viz_share_link
 
 
-## Conclusions
 
- 
-
-## Team Members/Roles and Timeline 
-
-### First Segment
-* Goal to have completed by 1/23
-* Circle = Nick
-* Triange = Lawrence
-* Square = Mary 
-
-
-### Second Segment 
-*  Goal to have completed by 1/30
-* Circle = Lawrence
-* Triange = Mary
-* Square = Nick
-
-### Third Segment
-* Goal to have completed by 2/6
-* Circle = Nick
-* Triange = Mary 
-* Square = Lawrence
-
-
-### Final Project Submission 
-* Goal to have completed by 2/9
-* Circle = Mary 
-* Triange = Nick
-* Square = Lawrence
 
