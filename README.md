@@ -54,9 +54,17 @@ PctExtHyperLinks predicted 19% of the model, PctExtNulSelfRedirectyperlinksRT re
 * <br /> ![image](https://user-images.githubusercontent.com/89048287/152261138-70a76855-cdcc-45ba-b283-e1d96556c0ff.png)
 
 ## Results
-
+As shown above, the Logistic Regression had an accuracy score of 93%, while the Random Forest model had an accuracy score of 94.2%.  The Logistic Regression model predicted less Phishing Sites as Legitimate than the Random Forest, while the Random Forest predicted more Legitimate Sites as Phishing. We also determined that of the 48 features used in the analysis, approximately 20 of the features had no significant impact on the predictions.
 
 ## Conclusions
+Our team recommends the Logistic Regression model of the two tested for future analysis.  While it did predict more Legitimate sites as a possible Phishing Site, the model performed more to the expectations of the team erring on the side of caution to limit Phishing Sites being accessed.  Further analysis should consider eliminating features determined to not provide significant impact on the model.
+
+End Users should be concerned with the following five features when visiting a website:
+-  submitinfotoemail: -2.913 - (include layman breakdown) 
+-  iframeorframe: -2.311 - (include layman breakdown)
+-  pctextnullselfredirecthyperlinksrt: -1.581 - (include layman breakdown)
+-  subdomainlevel: -1.524 - (include layman breakdown)
+-  numquerycomponents: -1.261 - (include layman breakdown)
 
 ## Dashboard
 
