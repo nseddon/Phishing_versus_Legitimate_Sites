@@ -73,26 +73,25 @@ Our final page will compare the results from both machine learning models with s
 
 ### First Segment
 * Goal to have completed by 1/23
-* Circle = Dolores
+* Circle = Nick
 * Triange = Lawrence
 * Square = Mary 
-* X = Nick
+
 
 ### Second Segment 
 *  Goal to have completed by 1/30
 * Circle = Lawrence
-* Triange = Dolores
+* Triange = Mary
 * Square = Nick
-* X = Mary 
 
 ### Third Segment
 * Circle = Nick
 * Triange = Mary 
 * Square = Lawrence
-* X = Dolores
+
 
 ### Final Project Submission 
 * Circle = Mary 
 * Triange = Nick
-* Square = Dolores
-* X = Lawrence
+* Square = Lawrence
+
