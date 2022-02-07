@@ -60,11 +60,11 @@ As shown above, the Logistic Regression had an accuracy score of 93%, while the 
 Our team recommends the Logistic Regression model of the two tested for future analysis.  While it did predict more Legitimate sites as a possible Phishing Site, the model performed more to the expectations of the team erring on the side of caution to limit Phishing Sites being accessed.  Further analysis should consider eliminating features determined to not provide significant impact on the model.
 
 End Users should be concerned with the following five features when visiting a website:
--  submitinfotoemail: -2.913 - (include layman breakdown) 
--  iframeorframe: -2.311 - (include layman breakdown)
--  pctextnullselfredirecthyperlinksrt: -1.581 - (include layman breakdown)
--  subdomainlevel: -1.524 - (include layman breakdown)
--  numquerycomponents: -1.261 - (include layman breakdown)
+-  submitinfotoemail: -2.913 - If a HTML souce code contains a "mailto" function.
+-  iframeorframe: -2.311 - This is the inclusion of content inbedded in the HTML website using an iframe tag. 
+-  pctextnullselfredirecthyperlinksrt: -1.581 - This is the count of hyperlinks in the HTML source code that use difference domain names, start with "#" or use a "JavaScript ::void(0)"
+-  subdomainlevel: -1.524 - Subdomains are separated by "." in your URL name. 
+-  numquerycomponents: -1.261 - This is the number of query compondents that are in the URL string.
 
 ## Dashboard
 
