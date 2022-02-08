@@ -77,7 +77,8 @@ Our final page will compare the results from both machine learning models with s
 
 * We presented our data and visualizations in GoogleSlides. 
 * Google slides https://docs.google.com/presentation/d/1Tlc5y2ZqGBQr2aUP3seLvCaXqkYhqNN9U3v5q_ywOac/edit?usp=sharing
-* Tableau https://public.tableau.com/views/TooLegit_toPhish/LogReg?:language=en-US&:display_count=n&:origin=viz_share_link
+* Tableau, Logistical Regression https://public.tableau.com/app/profile/lawrence.g.union/viz/TooLegit_toPhish/LogRegStory?publish=yes
+* Tableau, Random Forest https://public.tableau.com/app/profile/lawrence.g.union/viz/TooLegit_toPhish/RFStory?publish=yes
 
 
 
