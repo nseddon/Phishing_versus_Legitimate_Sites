@@ -27,7 +27,7 @@ To analyze the data, we chose to use two machine learning models to thoroughly d
 
 ### Data Prep
 
-Our data contained 50 columns containing one independent variable and one unique "ID" variable and 10,000 rows. Half of the data rows contained data on phishing websites while the other 5,000 rows contained data on legitimate websites. 
+Our data contained 50 columns made up of one dependent variable, one unique "ID" variable, and 48 "feature" variables. The dataset contained 10,000 rows. Half of the data rows contained data on phishing websites while the other 5,000 rows contained data on legitimate websites. 
 
 We prepared our data according to the project constraints to separate our single data set into three. The first set contained 25 columns including the ID columns. The second set contained the remaining 25 columns including an ID column. 
 Our third dataset contained the ID variable with the Class or independent variable. 
